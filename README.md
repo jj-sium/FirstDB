@@ -2,9 +2,9 @@
 
 ## Passi del progetto
 
-#### Il progetto di FirstDB è basato sul lavoro del database, avendo creato la cartella ghinelli.johan.4h.firstdb, cercando chinookdb su google (https://www.sqlitetutorial.net) e avendo scaricato il proprio database.
+#### Il progetto di FirstDB è basato sul lavoro del database, avendo creato la cartella ghinelli.johan.4h.firstdb, cercando chinookdb su google (https://www.sqlitetutorial.net) e avendo scaricato il proprio database siamo riusciti a lavorare con il database.
 
-#### Siamo andati sulla cartella intanto aperta con visual studio, abbiamo ovviamente fatto dotnet new console e abbiamo scritto una parte di codice per poi collegarlo al nostro database scaricato, abbiamo scaricato l'estensione di SQLite per SQLiteConnection che dava errore.
+#### Siamo andati sulla cartella che nel mentre è stata aperta con visual studio, abbiamo ovviamente fatto dotnet new console e abbiamo scritto una parte di codice per poi collegarlo al nostro database scaricato, abbiamo scaricato l'estensione di SQLite per SQLiteConnection che dava errore.
 
 #### Apriamo la cartella di csproj, abbiamo aperto il terminale e abbiamo aggiunto alla riga dei comandi il comando "dotnet add package sqlite-net-pcl" per mettere la funzione sqlite.
 
