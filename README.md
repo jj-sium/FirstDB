@@ -19,4 +19,4 @@
 #### In fine utilizzando il debug e mettendo un punto di interruzione, per guardare se funziona il codice con il dotnet run.
 #### Infatti guardando il debug, riusciamo a vedere che su tblArtists possiamo vedere che c'è il nome dell'artista e il nome delle tracce.
 
-## Grazie per aver ascoltato la spiegazione.
+##Grazie per aver ascoltato la spiegazione scritta dall'alunno Ghinelli Johan, Alunno di Conti M. e Sartini M.
